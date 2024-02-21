@@ -15,6 +15,6 @@ function withdrawl(amount,a){
         console.log("TRANSACTION FAILED")
     }
 }
-withdrawl(10500,mode.TapToPay) //enter the amount fisrt and then the mode of transaction(mode.XYZ)
+withdrawl(10000,mode.TapToPay) //enter the amount fisrt and then the mode of transaction eg.(mode.UPI)
 
 
